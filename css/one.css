@@ -1,0 +1,111 @@
+.maindiv{
+	display: grid;
+	grid-gap: 0px;
+	grid-template-columns: 2fr 3fr;
+	margin: 0px;
+}
+
+.left{
+	text-align: left;
+	background: #b8fbe2;
+	padding: 150px;
+	margin-bottom: 20px;
+	position: fixed;  
+	
+	
+}
+.kaliwa{
+	background: #b8fbe2 ;
+}
+h1{
+	color: #307068;
+	font-family: Lucida Fax
+}
+
+.right{
+	background: #b8fbe2;
+	text-align: justify;
+	
+}
+.perprof{
+	padding: 110px;
+	background: #f4f4f4;
+	margin: 20px 0 20px 0;
+	
+	
+}
+#personalprofile{
+	font-size: 30px;
+	color: #307068;
+}
+#labels{
+	font-size: 20px;
+	color: #307068;
+}
+#hmm{
+	font-size: 20px;
+}
+.workex{
+	padding: 100px;
+	background: #f4f4f4;
+	margin: 20px 0 20px 0;
+	position: relative;
+}
+#workexperience{
+	font-size: 30px;
+	color: #307068;
+}
+#ex1{
+	font-size: 20px;
+	color: #307068;
+}
+#where{
+	font-size: 20px;
+}
+#wcontent{
+	font-size: 20px;
+}
+.ski{
+	padding: 100px;
+	background: #f4f4f4;
+	margin: 20px 0 20px 0;
+	
+}
+#skills{
+	font-size: 30px;
+	color: #307068;
+}
+#scontent{
+	font-size: 20px;
+}
+.con{
+	padding: 100px;
+	background: #f4f4f4;
+	margin: 20px 0 20px 0;
+	
+}
+#contacts{
+	font-size: 30px;
+	color: #307068;
+}
+#ccontent{
+	font-size: 20px;
+}
+.educ{
+	padding: 100px;
+	background: #f4f4f4;
+	margin: 20px 0 20px 0;
+	
+}
+#education{
+	font-size: 30px;
+	color: #307068;
+}
+#level{
+	font-size: 20px;
+	color: #307068;
+}
+#econtent{
+	font-size: 20px;
+	color: black;
+}
